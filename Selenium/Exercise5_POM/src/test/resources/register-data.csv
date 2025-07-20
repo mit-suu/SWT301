@@ -1,0 +1,4 @@
+firstName,lastName,email,phone,gender,subject,hobbies,address,state,city
+John,Doe,john@example.com,0123456789,Male,Maths,Sports|Reading,123 Main Street,NCR,Delhi
+Jane,Smith,jane@example.com,0987654321,Female,English,Music|Sports,456 Sunset Blvd,NCR,Gurgaon
+Tom,Nguyen,tom.nguyen@abc.com,0777788888,Male,Physics,Sports,789 Duong Lang,NCR,Noida

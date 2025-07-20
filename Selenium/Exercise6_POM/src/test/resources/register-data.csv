@@ -1,0 +1,5 @@
+username,email,password,expectedSuccess
+newuser1,newuser1@example.com,123456,true
+admin,admin@example.com,123,false
+tuanhiep,user01@example.com,123456,false
+uniqueUser,unique@example.com,123456,true
