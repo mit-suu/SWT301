@@ -1,0 +1,6 @@
+username,password,expectedResult
+admin,123,pass
+john,wrongpass,fail
+1,123456,fail
+jane,admin,fail
+tuanhiep,123456,pass
